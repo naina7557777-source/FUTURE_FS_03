@@ -1,0 +1,14 @@
+[
+  {
+    "id": "9a00c22b-232c-433b-87c9-e915cf5edea1",
+    "code": "AUR-NTJ4B",
+    "name": "Aarav Sharma",
+    "email": "aarav@example.com",
+    "date": "2026-11-05",
+    "time": "21:00",
+    "guests": 2,
+    "deposit": 200,
+    "paidAt": "2026-11-05T16:04:41.691Z",
+    "checkedInAt": "2026-11-05T16:06:07.669Z"
+  }
+]
